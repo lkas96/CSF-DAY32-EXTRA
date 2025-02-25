@@ -1,0 +1,38 @@
+[
+  {
+    "item": "Acorn Squash",
+    "quantity": 5,
+    "price": 1.5,
+    "file_path": "acorn_squash.png"
+  },
+  {
+    "item": "Corn",
+    "quantity": 8,
+    "price": 0.75,
+    "file_path": "corn.png"
+  },
+  {
+    "item": "Apple",
+    "quantity": 4,
+    "price": 0.5,
+    "file_path": "apple.png"
+  },
+  {
+    "item": "Mushroom",
+    "quantity": 3,
+    "price": 2.9,
+    "file_path": "mushroom.png"
+  },
+  {
+    "item": "Blueberries",
+    "quantity": 10,
+    "price": 5,
+    "file_path": "blueberries.png"
+  },
+  {
+    "item": "Onion",
+    "quantity": 2,
+    "price": 3,
+    "file_path": "onion.png"
+  }
+]

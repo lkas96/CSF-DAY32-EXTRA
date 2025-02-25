@@ -1,0 +1,13 @@
+<h1>{{title | uppercase}}</h1>
+<div class="container">
+  <div class="section section1">
+      <div class="content">
+        <app-menu (onCartUpdate)="receviedCartFromAppMenu($event)"></app-menu>
+      </div>
+  </div>
+  <div class="section section2">
+      <div class="content">
+        <app-checkout [cartArray]='receivedCart'></app-checkout>
+      </div>
+  </div>
+</div>
